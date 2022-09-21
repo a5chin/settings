@@ -1,3 +1,4 @@
+export PATH=/usr/local/bin/git:$PATH
 export PATH=$PATH:"/Users/a5chin/flutter/bin"
 export PATH=$HOME/.cargo/bin:$PATH
 
